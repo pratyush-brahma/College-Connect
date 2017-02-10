@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gpa</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="Branch">
+        <item>Civil</item>
+        <item>Mechanical</item>
+        <item>Metallurgy</item>
+        <item>Mining</item>
+        <item>Computer Science</item>
+        <item>Electrical</item>
+        <item>Elex</item>
+        <item>I.T.</item>
+        
+        <item>Biomedical</item>
+        <item>Biotech</item>
+        
+    </string-array>
+    <string-array name="Semester">
+        <item>First</item>
+        <item>Second</item>
+        <item>Third</item>
+        <item>Fourth</item>
+        
+        
+        
+    </string-array>
+
+</resources>
